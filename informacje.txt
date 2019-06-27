@@ -1,0 +1,5 @@
+Po³¹czenie HTML/CSS z JS oraz baz¹ danych (elementy PHP):
+
+Strona zawiera:
+*wyszukiwarkê informacji z bazy danych,
+*prosty kalulator z uwzglêdnieniem danych wpisanych i zaznaczonych w polu typu checkbox przez u¿ytkownika

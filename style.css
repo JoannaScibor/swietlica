@@ -1,0 +1,39 @@
+body {
+	background-image:URL(tlo.jpg);
+	color:white;
+
+}
+h1 {
+	color:white;
+	font-size:45px;
+	text-shadow:4px 1px gray;
+	text-align:center;
+	font-family:'Lato';
+	
+}
+#pojemnik1 {
+	
+	float:left;
+	text-align:right;
+	width:50%;
+	
+}
+#pojemnik2 {
+	
+	float:left;
+	text-align:left;
+	width:50%;
+	color:#EEEEEE ;
+	
+}
+#l1 {
+	font-size:27px;
+	
+}
+#skladka {
+	border:1px solid white;
+}
+#klasa4 {
+
+	color:#EEEEEE ;
+}
